@@ -20,4 +20,8 @@ para isso some o valor a receber de Horas Extras (use o calculaHorasE) e o valor
 horas Trabalhadas (use o calculaHorasT) e retorna o Funcionario que apresenta o maior salário.</p>
 
 <p> - imprimir deve imprimir os valores dos atributos</p>
+
+<img src="https://github.com/CaioNasc/CalculoHoras/blob/main/UML.png">
+
+<p> - Método main que contém um ArrayList de objetos da classe acima. Cadastre pelo menos 3 funcionários neste vetor e após o cadastro, utilize os métodos acima em cada um dos objetos, e verifique qual deles fez mais horas extras e imprima os dados na tela.</p>
  
